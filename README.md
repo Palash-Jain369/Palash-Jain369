@@ -1,5 +1,5 @@
 
-<img src="https://github.com/Palash-Jain369/Palash-Jain369/blob/main/Banner.png"/>
+<img src="https://github.com/Palash-Jain369/Palash-Jain369/blob/main/Github_banner.png"/>
 
 # Hi, I am Palash 
 ### I think of ways to make computers work differently than their intended purposes and use that knowledge for good and to earn money.
