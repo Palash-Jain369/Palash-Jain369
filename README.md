@@ -1,5 +1,5 @@
 
-<img src="https://user-images.githubusercontent.com/46484569/88458558-8c31eb80-ceac-11ea-8058-a555f9e1b660.png"/>
+<img src="https://user-images.githubusercontent.com/46484569/88458558-8c31eb80-ceac-11ea-8058-a555f9e1b660.pn"/>
 
 # Hi, I am Palash 
 ### I think of ways to make computers work differently than their intended purposes and use that knowledge for good and to earn money.
