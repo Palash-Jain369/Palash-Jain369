@@ -22,7 +22,7 @@ Bandit wargame will let players experience following concepts:
 <h2> 🤳 Connect with me:</h2>
 
 
-[<img align="left" alt="Palash | LinkedIn" width="22px" src="https://github.com/Palash-Jain369/Palash-Jain369/blob/main/Linkdein_Icon.png"/>][linkedin]
+[<img align="left" alt="Palash | LinkedIn" width="40px" src="https://github.com/Palash-Jain369/Palash-Jain369/blob/main/Linkdein_Icon.png"/>][linkedin]
 
 [linkedin]: www.linkedin.com/in/palash-jain369
 
