@@ -2,7 +2,7 @@
 <img src="https://github.com/Palash-Jain369/Palash-Jain369/blob/main/Banner_Cropped.jpeg"/>
 
 # Hi, I am Palash 
-### I peer at tecnology, peircing through layers of abstractions and figure out ways to make products built on it to work differently than their intended purposes.
+### I peer at technology, peircing through layers of abstractions and figuring out how things actually work at bare metal level. In doing so, I learn ways to make products work differently than their intended purposes.
 
 
 
